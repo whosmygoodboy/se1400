@@ -1,0 +1,40 @@
+body {
+    background-color: #FFFFFF;
+    color: #666666;
+    font-family: Verdana;
+}
+header {
+    background-color: #003058;
+    color: #FFFFFF;
+    font-family: Georgia;
+}
+header h1 {
+    line-height: 140%;
+    padding: .5rem;
+}
+nav {
+    background-color: #f3f3f3;
+    font-style: bold;
+}
+h2 {
+    color: #424242;
+    font-family: Georgia;
+}
+dt {
+    color: #003058;
+    font-weight: bold;
+}
+.ut {
+    color: #BA1C21;
+    font-weight: bold;
+}
+footer {
+    font-size: .70rem;
+    font-style: italic;
+    text-align: center;
+}
+#wrapper {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
