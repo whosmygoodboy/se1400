@@ -90,7 +90,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    text-align: center;
+    text-align: left;
     border-radius: 6px;
     border: 1px solid #ccc;
   }
@@ -106,5 +106,22 @@ body {
     text-align: center;
     background: #bbb;
     padding: 1rem;
+  }
+  
+  .box-content {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+  }
+  
+  .box-content img {
+    width: 32px; /* or whatever your emoji size is */
+    height: 32px;
+  }
+  
+  .box-content a {
+    text-decoration: none;
+    font-size: 1rem;
   }
   
