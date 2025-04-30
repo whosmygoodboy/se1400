@@ -124,4 +124,13 @@ body {
     text-decoration: none;
     font-size: 1rem;
   }
+  .box-content {
+    display: inline-block;
+    text-align: left;
+    width: 100%;
+  }
   
+  .box-content a {
+    display: inline; /* Make sure the links are inline with the text */
+    margin-left: 5px; /* Adjust as needed for spacing */
+  }
