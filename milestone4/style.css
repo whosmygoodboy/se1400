@@ -123,6 +123,7 @@ body {
   .box-content a {
     text-decoration: none;
     font-size: 1rem;
+    display: inline;
   }
   .box-content {
     display: inline-block;
